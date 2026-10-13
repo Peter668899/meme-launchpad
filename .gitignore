@@ -15,3 +15,4 @@ docs/
 .env
 
 others/
+.DS_Store
